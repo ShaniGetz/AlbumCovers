@@ -1,0 +1,392 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "album": "Abbey Road",
+      "artist": "The Beatles",
+      "year": "1969",
+      "genre": "Rock",
+      "imgUrl": "https://ibb.co/Tt1KQ9k",
+      "dominantColors": {
+        "colors": [
+          {
+            "color": {
+              "blue": 78,
+              "green": 84,
+              "red": 86
+            },
+            "hex": "56544E",
+            "percent": 31.764984693820598,
+            "percentRounded": 32,
+            "rgb": "86, 84,\n 78"
+          },
+          {
+            "color": {
+              "blue": 196,
+              "green": 172,
+              "red": 118
+            },
+            "hex": "76ACC4",
+            "percent": 18.271249556963575,
+            "percentRounded": 18,
+            "rgb": "118, 172,\n 196"
+          },
+          {
+            "color": {
+              "blue": 135,
+              "green": 159,
+              "red": 172
+            },
+            "hex": "AC9F87",
+            "percent": 4.107650934115575,
+            "percentRounded": 4,
+            "rgb": "172, 159,\n 135"
+          },
+          {
+            "color": {
+              "blue": 47,
+              "green": 53,
+              "red": 48
+            },
+            "hex": "30352F",
+            "percent": 23.57999862181636,
+            "percentRounded": 24,
+            "rgb": "48, 53,\n 47"
+          },
+          {
+            "color": {
+              "blue": 107,
+              "green": 115,
+              "red": 116
+            },
+            "hex": "74736B",
+            "percent": 7.428404774271198,
+            "percentRounded": 7,
+            "rgb": "116, 115,\n 107"
+          },
+          {
+            "color": {
+              "blue": 69,
+              "green": 85,
+              "red": 95
+            },
+            "hex": "5F5545",
+            "percent": 4.705713331997733,
+            "percentRounded": 5,
+            "rgb": "95, 85,\n 69"
+          },
+          {
+            "color": {
+              "blue": 97,
+              "green": 115,
+              "red": 124
+            },
+            "hex": "7C7361",
+            "percent": 3.8263238014171392,
+            "percentRounded": 4,
+            "rgb": "124, 115,\n 97"
+          },
+          {
+            "color": {
+              "blue": 80,
+              "green": 87,
+              "red": 64
+            },
+            "hex": "405750",
+            "percent": 2.2940850155114783,
+            "percentRounded": 2,
+            "rgb": "64, 87,\n 80"
+          },
+          {
+            "color": {
+              "blue": 163,
+              "green": 185,
+              "red": 198
+            },
+            "hex": "C6B9A3",
+            "percent": 2.181413767165528,
+            "percentRounded": 2,
+            "rgb": "198, 185,\n 163"
+          },
+          {
+            "color": {
+              "blue": 27,
+              "green": 34,
+              "red": 29
+            },
+            "hex": "1D221B",
+            "percent": 1.8401755029208156,
+            "percentRounded": 2,
+            "rgb": "29, 34,\n 27"
+          }
+        ]
+      },
+      "labelAnnotations": ["Snapshot", "Automotive design", "Stock photography"],
+      "person": { 
+        "normalizedVertices": [
+        [{
+          "x": 0.07343196,
+          "y": 0.47820675
+        },
+        {
+          "x": 0.29019043,
+          "y": 0.47820675
+        },
+        {
+          "x": 0.29019043,
+          "y": 0.8490043
+        },
+        {
+          "x": 0.07343196,
+          "y": 0.8490043
+        }
+      ],
+      [{
+        "x": 0.7062717,
+        "y": 0.4893404
+      },
+      {
+        "x": 0.90855837,
+        "y": 0.4893404
+      },
+      {
+        "x": 0.90855837,
+        "y": 0.8673596
+      },
+      {
+        "x": 0.7062717,
+        "y": 0.8673596
+      }],
+      [{
+        "x": 0.4974024,
+        "y": 0.49162337
+      },
+      {
+        "x": 0.7074969,
+        "y": 0.49162337
+      },
+      {
+        "x": 0.7074969,
+        "y": 0.8563002
+      },
+      {
+        "x": 0.4974024,
+        "y": 0.8563002
+      }],
+      [{
+        "x": 0.4974024,
+        "y": 0.49162337
+      },
+      {
+        "x": 0.7074969,
+        "y": 0.49162337
+      },
+      {
+        "x": 0.7074969,
+        "y": 0.8563002
+      },
+      {
+        "x": 0.4974024,
+        "y": 0.8563002
+      }]
+      ],
+      "percent": 46
+      },
+      "text:":{
+        "normalizedVertices":[],
+        "percent": 0
+      },
+      "neighbors":[2,3,4,5,6,7,8,9,10,11]
+    },
+    {
+      "id": 2,
+      "album": "The Velvet Underground and Nico",
+      "artist": "The Velvet Underground and Nico",
+      "year": "1967",
+      "genre": "Rock",
+      "imgUrl": "https://ibb.co/hgwKwr2"
+    },
+    {
+      "id": 3,
+      "album": "Dark Side Of The Moon",
+      "artist": "Pink Floyd",
+      "year": "1973",
+      "genre": "Rock",
+      "imgUrl": "https://ibb.co/PYcKT7q"
+    },
+    {
+      "id": 4,
+      "album": "Led Zeppelin",
+      "artist": "Led Zeppelin",
+      "year": "1969",
+      "genre": "Rock",
+      "imgUrl": "https://ibb.co/BNv7K2w"
+    },
+    {
+      "id": 5,
+      "album": "Sgt. Pepper’s Lonely Hearts Club Band",
+      "artist": "The Beatles",
+      "year": "1967",
+      "genre": "Rock",
+      "imgUrl": "https://ibb.co/hLmz5T6"
+    },
+    {
+      "id": 6,
+      "album": "Ready To Die",
+      "artist": "The Notorious B.I.G.",
+      "year": "1967",
+      "genre": "Hip Hop",
+      "imgUrl": "https://ibb.co/JRdCCQ4"
+    },
+    {
+      "id": 7,
+      "album": "Nevermind",
+      "artist": "Nirvana",
+      "year": "1991",
+      "genre": "Rock",
+      "imgUrl": "https://ibb.co/Pr86H7Z"
+    },
+    {
+      "id": 8,
+      "album": "Rumors",
+      "artist": "Fleetwood Mac",
+      "year": "1977",
+      "genre": "Pop",
+      "imgUrl": "https://ibb.co/55bNchn"
+    },
+    {
+      "id": 9,
+      "album": "Enema Of The State",
+      "artist": "Blink 182",
+      "year": "1999",
+      "genre": "Rock",
+      "imgUrl": "https://ibb.co/2jvVsrM"
+    },
+    {
+      "id": 10,
+      "album": "Elvis Presley",
+      "artist": "Elvis Presley",
+      "year": "1956",
+      "genre": "Rock",
+      "imgUrl": "https://ibb.co/DR3tkb7"
+    },
+    {
+      "id": 11,
+      "album": "London Calling",
+      "artist": "The Clash",
+      "year": "1979",
+      "genre": "Rock",
+      "imgUrl": "https://ibb.co/5xhj0GR"
+    },
+    {
+      "id": 12,
+      "album": "Aladdin Sane",
+      "artist": "David Bowie",
+      "year": "1973",
+      "genre": "Pop",
+      "imgUrl": "https://ibb.co/pRhfRGn"
+    },
+    {
+      "id": 13,
+      "album": "Purple Rain",
+      "artist": "Prince",
+      "year": "1984",
+      "genre": "Pop",
+      "imgUrl": "https://ibb.co/3kg56FK"
+    },
+    {
+      "id": 14,
+      "album": "Unknown Pleasures",
+      "artist": "Joy Division",
+      "year": "1979",
+      "genre": "Rock",
+      "imgUrl": "https://ibb.co/dpvgN54"
+    },
+    {
+      "id": 15,
+      "album": "Born In The U.S.A",
+      "artist": "Bruce Springsteen",
+      "year": "1984",
+      "genre": "Rock",
+      "imgUrl": "https://ibb.co/MNQGg8D"
+    },
+    {
+      "id": 16,
+      "album": "Meat Is Murder",
+      "artist": "The Smiths",
+      "year": "1985",
+      "genre": "Rock",
+      "imgUrl": "https://ibb.co/4Ts4qnZ"
+    },
+    {
+      "id": 17,
+      "album": "In the Aeroplane Over the Sea",
+      "artist": "Neutral Milk Hotel",
+      "year": "1998",
+      "genre": "Alternative",
+      "imgUrl": "https://ibb.co/TBSY6fW"
+    },
+    {
+      "id": 18,
+      "album": "Sticky Fingers",
+      "artist": "The Rolling Stones",
+      "year": "1971",
+      "genre": "Alternative",
+      "imgUrl": "https://ibb.co/k8tcsmK"
+    },
+    {"id": 19,
+      "album": "Wish You Were Here",
+      "artist": "Pink Floyd",
+      "year": "1975",
+      "genre": "Rock",
+      "imgUrl": "https://ibb.co/YjVW7QC"
+    },
+    {"id": 20,
+      "album": "Rage Against The Machine",
+      "artist": "Rage Against The Machine",
+      "year": "1992",
+      "genre": "Nu metal",
+      "imgUrl": "https://ibb.co/W6R3trs"
+    },
+    {
+      "id": 21,
+      "album": "Back to Black",
+      "artist": "Amy Winehouse",
+      "year": "2006",
+      "genre": "Jazz",
+      "imgUrl": "https://ibb.co/gFSCsHt"
+    },
+    {
+      "id": 22,
+      "album": "DAMN.",
+      "artist": "Kendrick Lamar",
+      "year": "2017",
+      "genre": "Rap",
+      "imgUrl": "https://ibb.co/vDLjxhS"
+    },
+    {
+      "id": 23,
+      "album": "Cuz I Love You",
+      "artist": "Lizzo",
+      "year": "2019",
+      "genre": "R&B",
+      "imgUrl": "https://ibb.co/4p7nw8b"
+    },
+    {
+      "id": 24,
+      "album": "Kid A",
+      "artist": "Radiohead",
+      "year": "2000",
+      "genre": "Alternative",
+      "imgUrl": "https://ibb.co/2PTyyK8"
+    },
+    {
+      "id": 25,
+      "album": "8 Mile",
+      "artist": "Eminem",
+      "year": "2002",
+      "genre": "Hip Hop",
+      "imgUrl": "https://ibb.co/TTLD3Hz"
+    }
+  ]
+}
