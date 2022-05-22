@@ -6,7 +6,10 @@
       "artist": "The Beatles",
       "year": "1969",
       "genre": "Rock",
-      "imgUrl": "https://ibb.co/Tt1KQ9k",
+      "src": "https://live.staticflickr.com/65535/52090039077_8d004d589c_n.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52090039077_8d004d589c_n.jpg",
+      "thumbnailWidth": 10,
+      "thumbnailHeight": 10,
       "dominantColors": {
         "colors": [
           {
@@ -204,7 +207,10 @@
       "artist": "The Velvet Underground and Nico",
       "year": "1967",
       "genre": "Rock",
-      "imgUrl": "https://ibb.co/hgwKwr2"
+      "src": "https://live.staticflickr.com/65535/52091066081_986d3b93ed_w.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091066081_986d3b93ed_w.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 3,
@@ -212,7 +218,10 @@
       "artist": "Pink Floyd",
       "year": "1973",
       "genre": "Rock",
-      "imgUrl": "https://ibb.co/PYcKT7q"
+      "src": "https://live.staticflickr.com/65535/52091314694_0da05972f1_w.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091314694_0da05972f1_w.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 4,
@@ -220,7 +229,10 @@
       "artist": "Led Zeppelin",
       "year": "1969",
       "genre": "Rock",
-      "imgUrl": "https://ibb.co/BNv7K2w"
+      "src": "https://live.staticflickr.com/65535/52091066401_70e9f87a0e_w.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091066401_70e9f87a0e_w.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 5,
@@ -228,7 +240,10 @@
       "artist": "The Beatles",
       "year": "1967",
       "genre": "Rock",
-      "imgUrl": "https://ibb.co/hLmz5T6"
+      "src": "https://live.staticflickr.com/65535/52091314524_ae7e8e61aa_w.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091314524_ae7e8e61aa_w.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 6,
@@ -236,7 +251,10 @@
       "artist": "The Notorious B.I.G.",
       "year": "1967",
       "genre": "Hip Hop",
-      "imgUrl": "https://ibb.co/JRdCCQ4"
+      "src": "https://live.staticflickr.com/65535/52091086478_1a4208c40d_w.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091086478_1a4208c40d_w.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 7,
@@ -244,7 +262,10 @@
       "artist": "Nirvana",
       "year": "1991",
       "genre": "Rock",
-      "imgUrl": "https://ibb.co/Pr86H7Z"
+      "src": "https://live.staticflickr.com/65535/52090039287_4b17c923f3_w.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52090039287_4b17c923f3_w.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 8,
@@ -252,7 +273,10 @@
       "artist": "Fleetwood Mac",
       "year": "1977",
       "genre": "Pop",
-      "imgUrl": "https://ibb.co/55bNchn"
+      "src": "https://live.staticflickr.com/65535/52091569640_93a6d43396_n.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091569640_93a6d43396_n.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 9,
@@ -260,7 +284,10 @@
       "artist": "Blink 182",
       "year": "1999",
       "genre": "Rock",
-      "imgUrl": "https://ibb.co/2jvVsrM"
+      "src": "https://live.staticflickr.com/65535/52091569685_c258ba9b69_n.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091569685_c258ba9b69_n.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 10,
@@ -268,7 +295,10 @@
       "artist": "Elvis Presley",
       "year": "1956",
       "genre": "Rock",
-      "imgUrl": "https://ibb.co/DR3tkb7"
+      "src": "https://live.staticflickr.com/65535/52091314814_507b92f2b5_n.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091314814_507b92f2b5_n.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 11,
@@ -276,7 +306,10 @@
       "artist": "The Clash",
       "year": "1979",
       "genre": "Rock",
-      "imgUrl": "https://ibb.co/5xhj0GR"
+      "src": "https://live.staticflickr.com/65535/52090039022_28a9b28021_w.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52090039022_28a9b28021_w.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 12,
@@ -284,7 +317,10 @@
       "artist": "David Bowie",
       "year": "1973",
       "genre": "Pop",
-      "imgUrl": "https://ibb.co/pRhfRGn"
+      "src": "https://live.staticflickr.com/65535/52091086798_db8d07c196_n.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091086798_db8d07c196_n.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 13,
@@ -292,7 +328,10 @@
       "artist": "Prince",
       "year": "1984",
       "genre": "Pop",
-      "imgUrl": "https://ibb.co/3kg56FK"
+      "src": "https://live.staticflickr.com/65535/52091314619_438f14ce90_w.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091314619_438f14ce90_w.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 14,
@@ -300,7 +339,10 @@
       "artist": "Joy Division",
       "year": "1979",
       "genre": "Rock",
-      "imgUrl": "https://ibb.co/dpvgN54"
+      "src": "https://live.staticflickr.com/65535/52091569630_37b944420c_n.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091569630_37b944420c_n.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 15,
@@ -308,7 +350,10 @@
       "artist": "Bruce Springsteen",
       "year": "1984",
       "genre": "Rock",
-      "imgUrl": "https://ibb.co/MNQGg8D"
+      "src": "https://live.staticflickr.com/65535/52091086823_5544dfab4c_n.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091086823_5544dfab4c_n.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 16,
@@ -316,7 +361,10 @@
       "artist": "The Smiths",
       "year": "1985",
       "genre": "Rock",
-      "imgUrl": "https://ibb.co/4Ts4qnZ"
+      "src": "https://live.staticflickr.com/65535/52091086448_dc66ce3e0a_w.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091086448_dc66ce3e0a_w.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 17,
@@ -324,7 +372,10 @@
       "artist": "Neutral Milk Hotel",
       "year": "1998",
       "genre": "Alternative",
-      "imgUrl": "https://ibb.co/TBSY6fW"
+      "src": "https://live.staticflickr.com/65535/52091314719_df7dfb7180_w.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091314719_df7dfb7180_w.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 18,
@@ -332,21 +383,30 @@
       "artist": "The Rolling Stones",
       "year": "1971",
       "genre": "Alternative",
-      "imgUrl": "https://ibb.co/k8tcsmK"
+      "src": "https://live.staticflickr.com/65535/52091066151_c378ce442b_w.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091066151_c378ce442b_w.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {"id": 19,
       "album": "Wish You Were Here",
       "artist": "Pink Floyd",
       "year": "1975",
       "genre": "Rock",
-      "imgUrl": "https://ibb.co/YjVW7QC"
+      "src": "https://live.staticflickr.com/65535/52091314654_e68e1211e6_w.jpg" ,
+      "thumbnail": "https://live.staticflickr.com/65535/52091314654_e68e1211e6_w.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {"id": 20,
       "album": "Rage Against The Machine",
       "artist": "Rage Against The Machine",
       "year": "1992",
       "genre": "Nu metal",
-      "imgUrl": "https://ibb.co/W6R3trs"
+      "src": "https://live.staticflickr.com/65535/52090039127_ba855d76c3_w.jpg",
+      "thumbnail":  "https://live.staticflickr.com/65535/52090039127_ba855d76c3_w.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 21,
@@ -354,7 +414,10 @@
       "artist": "Amy Winehouse",
       "year": "2006",
       "genre": "Jazz",
-      "imgUrl": "https://ibb.co/gFSCsHt"
+      "src": "https://live.staticflickr.com/65535/52091066476_d0213b0045_n.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091066476_d0213b0045_n.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 22,
@@ -362,7 +425,10 @@
       "artist": "Kendrick Lamar",
       "year": "2017",
       "genre": "Rap",
-      "imgUrl": "https://ibb.co/vDLjxhS"
+      "src": "https://live.staticflickr.com/65535/52091569615_bc30f4dc61_n.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091569615_bc30f4dc61_n.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 23,
@@ -370,7 +436,10 @@
       "artist": "Lizzo",
       "year": "2019",
       "genre": "R&B",
-      "imgUrl": "https://ibb.co/4p7nw8b"
+      "src": "https://live.staticflickr.com/65535/52091086738_dd9e62ec49_w.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091086738_dd9e62ec49_w.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 24,
@@ -378,7 +447,10 @@
       "artist": "Radiohead",
       "year": "2000",
       "genre": "Alternative",
-      "imgUrl": "https://ibb.co/2PTyyK8"
+      "src": "https://live.staticflickr.com/65535/52091144241_97c97551cd_n.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091144241_97c97551cd_n.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     },
     {
       "id": 25,
@@ -386,7 +458,10 @@
       "artist": "Eminem",
       "year": "2002",
       "genre": "Hip Hop",
-      "imgUrl": "https://ibb.co/TTLD3Hz"
+      "src": "https://live.staticflickr.com/65535/52091314869_864c1b8557_n.jpg",
+      "thumbnail": "https://live.staticflickr.com/65535/52091314869_864c1b8557_n.jpg",
+      "thumbnailWidth": 100,
+      "thumbnailHeight": 100
     }
   ]
 }
